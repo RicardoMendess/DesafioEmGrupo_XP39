@@ -1,0 +1,1 @@
+Primeiro desafio em grupo do treinamento do XP39 na Gama Academy.
